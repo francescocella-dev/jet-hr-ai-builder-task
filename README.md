@@ -4,6 +4,8 @@ Prototipo realizzato per la task AI Builder di Jet HR che stima la retribuzione 
 
 Il progetto privilegia la trasparenza delle assunzioni e la comprensibilità del calcolo rispetto alla copertura incompleta di tutte le casistiche payroll. Il percorso seguito è stato: ricerca delle regole, delimitazione del problema, modellazione del dominio, verifica tramite test e costruzione della web utility.
 
+**Demo live:** [jet-hr-ai-builder-task.vercel.app](https://jet-hr-ai-builder-task.vercel.app/)
+
 ## Il problema
 
 La task parte da un input intenzionalmente semplice, la Retribuzione Annua Lorda (RAL), e deve restituire:
