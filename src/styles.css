@@ -144,6 +144,7 @@ a { color: inherit; }
 .sources__intro { max-width: 43rem; margin: 0; font-size: 1.08rem; line-height: 1.65; }
 .source-list { display: flex; flex-wrap: wrap; gap: 0.6rem; padding: 0; margin: 1.5rem 0; list-style: none; }
 .source-list li { padding: 0.6rem 0.8rem; border: 1px solid var(--color-border-medium); border-radius: var(--radius-sm); background: var(--color-surface); font-size: 0.82rem; font-weight: 750; }
+.source-list a { color: inherit; text-underline-offset: 0.18rem; }
 .sources__note { color: var(--color-muted); font-size: 0.8rem; }
 .footer { border-top: 1px solid var(--color-border-soft); }
 .footer__inner { min-height: 7rem; display: flex; align-items: center; justify-content: space-between; gap: 2rem; color: var(--color-muted); font-size: 0.78rem; }
